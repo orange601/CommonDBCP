@@ -1,4 +1,4 @@
-# Commons DBCP 이해하기
+# Commons DBCP
 출처:https://d2.naver.com/helloworld/5102792
 
 # 버전 선택
