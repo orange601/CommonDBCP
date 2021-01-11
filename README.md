@@ -1,5 +1,4 @@
 # Commons DBCP
-출처:https://d2.naver.com/helloworld/5102792
 
 # 버전 선택
 - JDK(Java development kit)의 버전에 따라서 Connection이나 Statement 같은 
@@ -37,3 +36,5 @@ Commons DBCP 버전을 선택해야 안정된 동작을 기대할 수 있다.
   영향을 줄이는 것이다. 이런 상황이 자주 있다면 Commons DBCP의 maxActive 값과 Tomcat의 maxThread 값을 동시에 늘이는 것을 
   고려한다. 그러나 시스템 자원의 한도를 많이 넘는 요청이 있다면 설정을 어떻게 변해도 장애를 피할 수 없다. 
   애플리케이션 서버의 자원이 설정 변경을 수용할 만큼 충분하지 않다면 시스템을 확충해야 할 것이다.
+
+출처:https://d2.naver.com/helloworld/5102792
